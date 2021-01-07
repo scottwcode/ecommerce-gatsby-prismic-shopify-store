@@ -1,0 +1,16 @@
+// copy/rename this to now.json after filling in the fields
+{
+  "version": 2,
+  "env": {
+    "GATSBY_SHOP_NAME": "your-shopify-name",
+    "GATSBY_SHOPIFY_ACCESS_TOKEN": "your-shopify-token",
+    "GATSBY_PRISMIC_REPOSITORY": "your-prismic-repo-name"
+  },
+  "build": {
+    "env": {
+    "GATSBY_SHOP_NAME": "your-shopify-name",
+    "GATSBY_SHOPIFY_ACCESS_TOKEN": "your-shopify-token",
+    "GATSBY_PRISMIC_REPOSITORY": "your-prismic-repo-name
+    }
+  }
+}
